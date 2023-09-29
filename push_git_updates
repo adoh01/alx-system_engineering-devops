@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m "My auto git updates"
+git push
